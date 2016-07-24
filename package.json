@@ -1,0 +1,17 @@
+{
+  "name": "pogobuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-geocoder": "^3.13.1",
+    "node-pogo-protos": "^1.0.1",
+    "pogobuf": "^1.0.0",
+    "s2geometry-node": "^1.3.1"
+  }
+}
